@@ -1,0 +1,2 @@
+06-Julio-2016
+Se sube fichero "Proyecto - Toma de decisiones con teoria de juegos buscando la satisfaccion de las partes.rtf" se hace un cambio de formato debido a que este permite un trabajo en texto plano que permitira realizar integración por merge
